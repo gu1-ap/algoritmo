@@ -12,7 +12,7 @@ package aula.tiposdefracao;
 public class Fracao2 {
     // atributos 
     private int numerador , denominador;
-    
+    int d ;
     // construtor
     public Fracao2 (int numerador , int denominador ) {
         this.numerador = numerador;
